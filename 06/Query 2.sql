@@ -2,7 +2,7 @@ use cadastro;
 
 CREATE Table if not exists cursos (
     nome VARCHAR(30) not null UNIQUE,
-    descicao TEXT,
+    descricao TEXT,
     carga INT UNSIGNED,
     totaulas INT UNSIGNED,
     ano YEAR DEFAULT '2016'
