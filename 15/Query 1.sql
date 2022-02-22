@@ -20,6 +20,8 @@ Os dados podem até ser dinâmicos, mas a última atualização deve permanecer 
 -- InnoDB tem estas 4 características e suporta chaves estrangeiras
 
 
+-- CARDINALIDADE um-para-muitos
+
 USE cadastro;
 
 DESC gafanhotos;

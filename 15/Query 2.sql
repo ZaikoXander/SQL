@@ -1,3 +1,5 @@
+-- CARDINALIDADE um-para-muitos
+
 USE cadastro;
 
 SELECT nome, cursopreferido FROM gafanhotos;
